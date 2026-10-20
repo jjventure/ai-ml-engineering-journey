@@ -1,0 +1,2 @@
+helloThis is a new log entry: Joel
+This is a new log entry: James

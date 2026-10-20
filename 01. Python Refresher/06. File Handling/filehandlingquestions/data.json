@@ -1,0 +1,11 @@
+{
+    "name": "Joel",
+    "age": 21,
+    "city": "Kollam",
+    "skills": [
+        "Python",
+        "NumPy",
+        "Pandas"
+    ],
+    "is_student": true
+}

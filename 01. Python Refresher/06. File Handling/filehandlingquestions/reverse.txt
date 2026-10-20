@@ -1,0 +1,5 @@
+Python is fun.
+I am learning file handling.
+Reading files is useful.
+Practice makes perfect.
+Never stop learning.

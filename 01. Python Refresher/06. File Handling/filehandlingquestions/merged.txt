@@ -1,0 +1,6 @@
+Python is easy to learn.
+It is widely used for automation.
+Machine Learning uses Python extensively.
+Data Science is an exciting field.
+Practice coding every day.
+Consistency beats motivation.

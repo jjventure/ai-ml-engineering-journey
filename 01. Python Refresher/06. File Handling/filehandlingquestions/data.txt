@@ -1,0 +1,4 @@
+Java is a powerful programming language.
+Many people learn Java because Java is easy to read.
+Java is used for web development, data science, machine learning, and automation.
+If you enjoy programming, Java is a great choice.
