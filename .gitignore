@@ -31,3 +31,6 @@ Thumbs.db
 
 # Windows system files
 desktop.ini 
+
+# Large Kaggle dataset
+/02. Data Foundations/02_Pandas/Amazon Sale Report.csv
